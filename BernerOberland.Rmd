@@ -1,0 +1,39 @@
+---
+title: "Berner Oberland"
+author: "Sophie Charlotte Zeiz"
+date: "2024-10-18"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Berner Oberland
+
+The Bernese Oberland, sometimes also known as the Bernese Highlands, is the highest and southernmost part of the canton of Bern.
+
+## Highest peaks
+***These are the 10 highest peaks of the Bernese Highlands in meters***\
+1.	Finsteraarhorn	4274	 
+2.	Aletschhorn	4194	 
+3.	Jungfrau	4159	 
+4.	Mönch	4110 
+5.	Schreckhorn	4078
+6.	Grosses Fiescherhorn	 
+7.	Grosses Grünhorn
+8.	Lauteraarhorn	4042
+9.	Hinter-Fiescherhorn	4025
+10.	Gletscherhorn	3983
+
+### Starting points for hiking tours
+- Lauterbrunnen
+- Grindelwald
+- Interlaken
+- Andelboden
+- Brienz
+
+
+```{r unit, echo=FALSE}
+print ("TouristHotspot")
+```
